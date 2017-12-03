@@ -1,0 +1,8 @@
+build
+node_modules
+public/css/*
+public/assets/*.js
+public/assets/styles.css
+config/database.js
+.tern-port
+.tern-project
